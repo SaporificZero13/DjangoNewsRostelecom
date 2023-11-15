@@ -1,0 +1,23 @@
+body {
+  margin: 20px;
+  background-color: #FFFFFF;
+}
+
+div {
+	margin: 40px;
+}
+
+.news2 {
+	margin: 60px;
+  	color: red;
+  	background-color: aqua;
+}
+
+#news3 {
+  margin: 100px;
+	color: blue;
+}
+
+.news1 h2{
+  	color: green
+}
